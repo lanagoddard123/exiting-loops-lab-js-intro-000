@@ -18,3 +18,7 @@ function keepGoing(array, changeValue, skipValue){
   }
   return array
 }
+
+Function findBy(array, findFn){
+
+}
