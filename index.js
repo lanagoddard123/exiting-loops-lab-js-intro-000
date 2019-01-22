@@ -9,4 +9,3 @@ function break0ut(array, changeValue, stopValue){
  return array
  }
 }
-
